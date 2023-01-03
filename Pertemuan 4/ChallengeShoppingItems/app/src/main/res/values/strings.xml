@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Challenge Shopping Items</string>
+    <string name="nama_items">nama_items</string>
+    <string name="keju">keju</string>
+    <string name="nasi">nasi</string>
+    <string name="apel">apel</string>
+    <string name="add_item">add item</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloToastIcon</string>
+    <string name="toast">toast</string>
+</resources>

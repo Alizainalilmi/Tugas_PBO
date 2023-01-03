@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tv_one"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cerita Keong Emas" />
+
+
+    <Button
+        android:id="@+id/bt_textone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_one"
+        android:onClick="buttonone"
+        android:layout_below="@+id/tv_one"/>
+
+
+    <TextView
+        android:id="@+id/tv_two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cerita Timun Emas"
+        android:layout_below="@+id/bt_textone"/>
+
+    <Button
+        android:id="@+id/bt_texttwo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_two"
+        android:layout_below="@id/tv_two"
+        android:onClick="buttontwo"/>
+
+    <TextView
+        android:id="@+id/tv_three"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cerita Selat Bali"
+        android:layout_below="@+id/bt_texttwo"/>
+
+    <Button
+        android:id="@+id/bt_textthree"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_three"
+        android:layout_below="@+id/tv_three"
+        android:onClick="buttonthree"/>
+
+
+</RelativeLayout>

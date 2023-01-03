@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">Recipe Assignment Erika</string>
+    <string name="recipes">Recipes</string>
+    <string name="label">Recycle View</string>
+    <string name="MiniPizza">
+        1 can (16.3 oz) refrigerated Pillsbury™ Grands!™ Flaky Layers Original Biscuits (8 Count)\n
+        1 cup pizza sauce\n
+        2 cups shredded mozzarella cheese (8 oz)\n
+        1 package (3.5 oz) sliced pepperoni\n
+
+        \n
+        1. \n
+        Press each biscuit into 6-inch round. Place on 2 large or 3 small greased cookie sheets. Top each round with pizza sauce, cheese and pepperoni.\n
+        2. \n
+        Bake at 375°F 10 to 15 minutes or until bottoms are deep golden brown and cheese is bubbly.\n
+
+    </string>
+
+    <string name="PepperoniPizzaCrescentRolls">
+        1 can (8 oz) refrigerated Pillsbury™ Original Crescent Rolls (8 Count) \n
+        24 slices (about 5 oz) pepperoni \n
+        2 oz shredded mozzarella cheese (1/2 cup) \n
+        1 cup tomato pasta or pizza sauce, heated \n
+        \n
+
+        1. \n
+        Heat oven to 375°F. Separate dough into 8 triangles; pat out each triangle slightly.\n
+        \n
+        2. \n
+        Place 3 slices pepperoni, slightly overlapping, on center of each triangle. Top each with about 1 tablespoon cheese.\n
+        \n
+        3. \n
+        Roll up, starting at shortest side of triangle and rolling to opposite point. Place rolls, point side down, on ungreased cookie sheet.\n
+        \n
+        4. \n
+        Bake at 375°F for 10 to 14 minutes or until golden brown. Remove from cookie sheet. Serve warm crescents with warm pasta sauce for dipping.\n
+
+    </string>
+
+    <string name="PepperoniPizzaBread">
+        1 can (8 oz) refrigerated Pillsbury Original Crescent Dough Sheet\n
+        1 cup shredded mozzarella cheese (4 oz)\n
+        40 slices pepperoni\n
+        1 egg\n
+        1 tablespoon grated Parmesan cheese\n
+        3/4 teaspoon Italian seasoning\n
+
+        \n
+        1. \n
+        Heat oven to 350°F. Line cookie sheet with cooking parchment paper or baking mat.\n
+        2. \n
+        Unroll 1 can (8 oz) Pillsbury™ refrigerated crescent dough sheet on cookie sheet. Using hands, spread dough evenly. Sprinkle 1 cup shredded mozzarella cheese (4 oz) over dough, leaving 1/2-inch border around edges.\n
+        3. \n
+        Place 40 slices pepperoni in rows over cheese. Fold short end of dough just over edge of pepperoni. Starting at the long end, roll dough, pinching to seal. Place seam side down on cookie sheet.\n
+        4. \n
+        Mix 1 egg with 1 tablespoon water. Brush egg mixture over dough (you will have egg leftover).\n
+        5. \n
+        Mix 1 tablespoon grated Parmesan cheese and 3/4 teaspoon Italian seasoning. Sprinkle evenly over dough.\n
+        6. \n
+        Bake 14 to 18 minutes or until golden brown. Cut into 2-inch pieces; serve with pizza sauce or marinara sauce for dipping.\n
+
+    </string>
+    <string name="PizzaCrescentRing">
+        1 lb ground Italian sausage, cooked and drained\n
+        3 oz pepperoni slices, quartered (about 42 slices)\n
+        1 1/2 cups shredded pizza cheese (6 oz)\n
+        1 1/2 cups pizza sauce\n
+        2 cans (8 oz) refrigerated Pillsbury™ Original Crescent Rolls (8 Count) \n
+        1 tablespoon butter, melted\n
+        1 tablespoon grated Parmesan cheese\n
+
+        \n
+        1. \n
+        Heat oven to 375°F (350°F for dark or nonstick cookie sheet). In medium bowl, mix cooked sausage, pepperoni, cheese and 3/4 cup of the pizza sauce.\n
+        \n
+        2. \n
+        Unroll both cans of dough; separate into 8 rectangles. On ungreased cookie sheet, arrange rectangles in ring so short sides of rectangle form a 5-inch circle in center. Dough will overlap.\n
+        \n
+        3. \n
+        Spoon sausage mixture on the half of each rectangle closest to center of ring.\n
+        \n
+        4. \n
+        Bring each dough rectangle up over filling, tucking dough under bottom layer of dough to secure it. Repeat around ring until entire filling is enclosed (some filling might show a little).\n
+        \n
+        5. \n
+        Gently separate dough perforations on top until filling peeks through. Brush top of dough with melted butter, and sprinkle with Parmesan cheese. Bake 20 to 25 minutes or until dough is golden brown and thoroughly baked. Cool 5 to 10 minutes before cutting into serving slices. Just before serving, in small microwavable bowl, microwave remaining 3/4 cup pizza sauce uncovered on Medium-High (70%) 1 to 2 minutes or until hot.\n
+    </string>
+    <string name="HummingbirdCake">
+        1. \n
+        Prepare the Cake Layers: Preheat oven to 350°F. Whisk together flour, sugar, salt, baking soda, and cinnamon in a large bowl; add eggs and oil, stirring just until dry ingredients are moistened. Stir in vanilla, pineapple, bananas, and toasted pecans
+        2. \n
+        Divide batter evenly among 3 well-greased (with shortening) and floured 9-inch round cake pans.\n
+        3. \n
+        Bake in preheated oven until a wooden pick inserted in center comes out clean, 25 to 30 minutes. Cool in pans on wire racks 10 minutes. Remove from pans to wire racks, and cool completely, about 1 hour.\n
+        4. \n
+        Prepare the Cream Cheese Frosting: Beat cream cheese and butter with an electric mixer on medium-low speed until smooth. Gradually add powdered sugar, beating at low speed until blended after each addition. Stir in vanilla. Increase speed to medium-high, and beat until fluffy, 1 to 2 minutes.\n
+        5. \n
+        Assemble Cake: Place first cake layer on a serving platter; spread top with 1 cup of the frosting. Top with second layer, and spread with 1 cup frosting. Top with third layer, and spread remaining frosting over top and sides of cake. Arrange pecan halves on top of cake in a circular pattern.\n
+
+    </string>
+    <string name="BritishChristmasPudding">
+        1 pound/450 grams (3 to 3 1/2 cups) mixed dried fruit\n
+        25 grams (scant 1/2 cup) mixed candied fruit peel, finely chopped\n
+        1 small cooking apple, peeled, cored, and finely chopped\n
+        1 tablespoon orange zest\n
+        1/2 tablespoon lemon zest\n
+        2 tablespoons fresh orange juice\n
+        1 tablespoon fresh lemon juice\n
+        1/4 cup brandy, more as needed\n
+        55 grams (1/2 cup) self-rising flour, sifted\n
+        1 teaspoon ground mixed spice\n
+        1 1/2 teaspoons ground cinnamon\n
+        110 grams (about 1 cup) beef or vegetarian suet, shredded\n
+        110 grams (scant 2/3 cup) dark brown sugar, packed\n
+        110 grams (1 cup) fresh breadcrumbs\n
+        25 grams (1/4 cup) whole almonds, coarsely chopped\n
+        2 large eggs\n
+
+        \n
+        1. \n
+        Gather the ingredients. \n
+        2. \n
+        Place the dried fruit, candied peel, apple, and orange and lemon zests and juices into a large mixing bowl. Add the brandy and stir well. Cover the bowl with a clean tea towel and leave to marinate for a couple of hours, preferably overnight.\n
+        3. \n
+        Lightly butter a 2 1/2 pint pudding basin.\n
+        4. \n
+        In a very large mixing bowl, stir the flour, mixed spice, and cinnamon together. Add the suet, sugar, breadcrumbs, and almonds, and stir again until all the ingredients are well mixed. Add the marinated dried fruits and stir again.\n
+        5. \n
+        In a small bowl, beat the eggs lightly, then stir quickly into the dry ingredients. The mixture should have a fairly soft consistency.\n
+        6. \n
+        Spoon the mixture into the greased pudding basin, gently pressing the mixture down with the back of a spoon. Cover with a double layer of greaseproof paper or baking parchment, then a layer of aluminum foil. Tie securely with string, wrapping the string around the basin, then loop over the top and then around the bowl again. This will form a handle, which will be useful when removing the pudding from the steamer. \n
+        7. \n
+        Set a steamer over a saucepan of simmering water, place the pudding in the steamer, and steam the pudding for 7 hours. Make sure you check the water level frequently, so it never boils dry. The pudding should be a dark brown color when cooked.\n
+        8. \n
+        Remove the pudding from the steamer and cool completely. Remove the paper, prick the pudding with a skewer in a few places, and pour in a little extra brandy.\n
+        9. \n
+        Cover with fresh greaseproof paper and retie with string.\n
+        10. \n
+        Store for at least 4 to 5 weeks in a cool, dry place until Christmas Day. On Christmas Day, reheat the pudding by steaming again for about an hour. Enjoy!\n
+
+    </string>
+</resources>
